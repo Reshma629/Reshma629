@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+This is second file
+=======
 hello demo file
+>>>>>>> fa695769c70d6ed89d7a776b525ca38724d5939e
